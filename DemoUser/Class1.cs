@@ -14,6 +14,7 @@ namespace DemoUser
                 throw new ArgumentNullException();
 
             m_email = userEmail;
+            //  test
         }
 
         private string m_email;
